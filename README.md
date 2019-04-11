@@ -16,7 +16,7 @@
    K-ближайших соседей][4.1] - 
    [Отчет][4.2]
    
-[1.1]:
+[1.1]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba1
 [1.2]:
 [2.1]:
 [2.2]:
