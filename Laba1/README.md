@@ -22,5 +22,5 @@ C:\project\env\Scripts\deactivate.bat
 
 ## Запуск Jupyter
 ```
-jupyter lab 
+jupyter lab или jupyter notebook
 ```
