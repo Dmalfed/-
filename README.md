@@ -18,9 +18,9 @@
    
 [1.1]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba1
 [1.2]:
-[2.1]:
+[2.1]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba2
 [2.2]:
-[3.1]:
+[3.1]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba3
 [3.2]:
-[4.1]:
+[4.1]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba4
 [4.2]:
