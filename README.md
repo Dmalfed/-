@@ -17,10 +17,10 @@
    [Отчет][4.2]
    
 [1.1]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba1
-[1.2]:
+[1.2]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba1/notebook.pdf
 [2.1]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba2
-[2.2]:
+[2.2]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba2/notebook.pdf
 [3.1]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba3
-[3.2]:
+[3.2]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba3/notebook.pdf
 [4.1]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba4
-[4.2]:
+[4.2]: https://github.com/Dmalfed/ml-course-labs/tree/master/Laba4/notebook.pdf
